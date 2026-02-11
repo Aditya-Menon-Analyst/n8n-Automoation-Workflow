@@ -1,0 +1,1 @@
+Designed and deployed an end-to-end job application workflow using n8n, integrating AI tools, HTTP APIs, and document services. The system automates job scraping, filters relevant roles, rewrites resumes using AI, and sends tailored applications, reducing manual effort and increasing outreach efficiency.
